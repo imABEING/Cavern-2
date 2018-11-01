@@ -12,6 +12,7 @@ Filter Cutoff: Right knob controls a low pass filter, ranging from 20 to 20,000 
 
 ## Credits
 [Kamilah Mitchell](http://alexxbeats.weebly.com/ ) : Software Developer, UI/UX Developer
+
 [Voger Design](https://vogerdesign.com/) : Graphic Design (Knobs)
 
 
