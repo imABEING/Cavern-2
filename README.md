@@ -1,5 +1,5 @@
 # Cavern 2
-This program was made using Cabbage and Csound, and is based off of the Cavern plugin. It features an 8 delay line FDN stereo reverb with four knobs to control the dry level, feedback amount, pitch modulation and cutoff parameters.  ![Cavern 2](https://github.com/imABEING/Cavern/blob/master/Cavern2_UI.jpeg)
+This program was made using Cabbage and Csound, and is based off of the Cavern plugin. It features an 8 delay line FDN stereo reverb with four knobs to control the dry level, feedback amount, pitch modulation and cutoff parameters.  ![Cavern 2](https://github.com/imABEING/Cavern-2/blob/master/Cavern2_UI.png)
 
 ## Features
 Feedback: Top center knob controls feedback amount, ranging from 0.00 to 1.00.
