@@ -16,6 +16,10 @@ Filter Cutoff: Right knob controls a low pass filter, ranging from 20 to 20,000 
 [Voger Design](https://vogerdesign.com/) : Graphic Design (Knobs)
 
 
-
+## Demo
+Click the image to see a video demonstration of the plugin!
+<a href="https://www.youtube.com/watch?v=7z-J_GhdfGs
+" target="_blank"><img src="https://github.com/imABEING/Cavern-2/blob/master/Cavern2_UI.png" 
+alt="Cavern Lite Demo" width="300" height="200" border="10" /></a>
 
 
